@@ -1,3 +1,5 @@
+bài 3 phần bài tập về nhà struct
+
 #include <stdio.h>
 #include <string.h>
 
