@@ -1,3 +1,5 @@
+bài 1 phần bài tập về nhà phần array
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
