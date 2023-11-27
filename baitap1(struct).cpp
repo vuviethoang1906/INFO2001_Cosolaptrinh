@@ -1,3 +1,5 @@
+bài 1 phần bài tập về nhà struct
+           
 #include <stdio.h>
 
 struct Student {
