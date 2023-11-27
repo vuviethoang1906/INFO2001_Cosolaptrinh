@@ -1,3 +1,5 @@
+bài tập 2 phần struct
+
 #include <stdio.h>
 #include <string.h>
 
